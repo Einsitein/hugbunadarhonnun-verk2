@@ -1,0 +1,16 @@
+### VS Code ###
+.vscode/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Emacs ###
+*~
+*#
+
+### macOS extra files
+*/.DS_Store
+.DS_Store
